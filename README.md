@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Taylan Kabbani
 
 ## I'm a Data Scientist and work towards becoming a full-stack data scientist!
-<!--
-**taylankabbani/taylankabbani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
