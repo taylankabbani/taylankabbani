@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Taylan Kabbani
+### Hi there 👋, I'm Taylan Kabbani 
 
 ## I'm a Data Scientist and work towards becoming a full-stack data scientist!
 
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - :office_worker: My last occupied position was Academic Program coordinator @ AI Business School
 - 🌱 I’m currently learning Deep Reinforcement Learning
 - 🥅 2021 Goals: Contribute more to Kaggle Projects
-
+![](https://komarev.com/ghpvc/?taylankabbani&color=green)
 ### Connect me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />](https://www.linkedin.com/in/taylan-kabbani-98a913120/)
 [<img align="left" alt="medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@taylankabbani96)
@@ -33,10 +33,11 @@ Here are some ideas to get you started:
 <img align="left" src="https://img.icons8.com/color/48/000000/linux.png"/>
 <img align="left" src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-<img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-<img src="https://img.icons8.com/nolan/50/matlab.png"/>
-<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+<img align="left" src="https://img.icons8.com/nolan/50/matlab.png"/>
+<img align="left" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 
+<img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"/>
 ---
 
 
