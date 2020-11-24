@@ -23,15 +23,13 @@ Here are some ideas to get you started:
 <a href="https://github.com/taylankabbani">
   <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=taylankabbani&theme=radical" />
 </a>
----
 
 ### Languages and Tools:
 ---
 <img align="left" src="https://img.icons8.com/dusk/64/000000/python.png"/>
 <img align="left" src="https://img.icons8.com/doodle/64/000000/r.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/>
+<img align="left" src="https://img.icons8.com/officel/40/000000/sql.png"/>
 ---
 
 
-
-
----
