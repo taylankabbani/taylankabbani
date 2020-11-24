@@ -30,6 +30,14 @@ Here are some ideas to get you started:
 <img align="left" src="https://img.icons8.com/doodle/64/000000/r.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/>
 <img align="left" src="https://img.icons8.com/officel/40/000000/sql.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/linux.png"/>
+<img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
+<img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 ---
+📝 Here are my latest articles on [Medium](https://medium.com/@taylankabbani96):
+
+### Medium
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@taylankabbani96/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@taylankabbani96/0" alt="Recent Article 0"> 
 
 
