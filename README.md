@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Taylan Kabbani 
+### Hi there 👋, I'm Taylan Kabbani ![Profile views](https://gpvc.arturio.dev/taylankabbani)
 
 ## I'm a Data Scientist and work towards becoming a full-stack data scientist!
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img align="left" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 
 <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"/>
----
+
 
 
 ##  :newspaper: Here are my latest articles on [Medium](https://medium.com/@taylankabbani96)
