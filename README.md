@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Taylan Kabbani ![Profile views](https://gpvc.arturio.dev/taylankabbani)
 
-## I'm a Data Scientist and work towards becoming a full-stack data scientist!
+## I'm a Data Scientist and working towards becoming a full-stack data scientist!
 
 Here are some ideas to get you started:
 <a href="https://github.com/taylankabbani">
