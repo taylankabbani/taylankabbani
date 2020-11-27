@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br />
 <a href="https://github.com/taylankabbani">
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=taylankabbani&theme=radical" />
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=taylankabbani&theme=radical"/>
 </a>
 
 ### Languages and Tools:
