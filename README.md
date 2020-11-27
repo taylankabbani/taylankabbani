@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 <a href="https://github.com/taylankabbani">
-<img align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=taylankabbani&hide=prs,issues,contribs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=highcontrast&custom_title=My Github Stats" />
+<img align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=taylankabbani&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=highcontrast&custom_title=My Github Stats"/>
 </a>
 
 - :student: I'm currently working on my master's in Data Science (thesis phase) @Özyeğin Üniversitesi
