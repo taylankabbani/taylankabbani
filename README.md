@@ -7,7 +7,7 @@
 </a>
 
 - :student: I'm currently working on my master's in Data Science (thesis phase) @Özyeğin Üniversitesi
-- :office_worker: My last occupied position was Academic Program coordinator @ AI Business School
+- :office_worker: My last occupied position was AI Engineer @ Amani AI
 - 🌱 I’m currently learning Deep Reinforcement Learning
 - 🥅 2021 Goals: Contribute more to Kaggle Projects
 ![](https://komarev.com/ghpvc/?taylankabbani&color=green)
