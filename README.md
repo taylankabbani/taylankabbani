@@ -26,6 +26,7 @@
 ### Languages and Tools:
 ---
 <img align="left" src="https://img.icons8.com/dusk/64/000000/python.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 <img align="left" src="https://img.icons8.com/doodle/64/000000/r.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/>
 <img align="left" src="https://img.icons8.com/officel/40/000000/sql.png"/>
