@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Taylan Kabbani ![Profile views](https://gpvc.arturio.dev/taylankabbani)
 
-## I'm a Data Engineer @ Huawei !
+## I'm a Data Scientist/Engineer @ Huawei !
 
 <a href="https://github.com/taylankabbani">
 <img align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=taylankabbani&hide=prs,issues,contribs&show_icons=true&hide_border=true&include_all_commits=true&theme=highcontrast&custom_title=My Github Stats"/>
