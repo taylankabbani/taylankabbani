@@ -6,10 +6,11 @@
 <img align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=taylankabbani&hide=prs,issues,contribs&show_icons=true&hide_border=true&include_all_commits=true&theme=highcontrast&custom_title=My Github Stats"/>
 </a>
 
-- :student: I'm currently working on my master's in Data Science (thesis phase) @Özyeğin Üniversitesi
+- :student: I've recently finished my master's in Data Science @Özyeğin Üniversitesi with a full teaching/research assistant scholarship
 - :office_worker: My last occupied position was AI Engineer @ Amani AI
-- 🌱 I’m currently learning Deep Reinforcement Learning
-- 🥅 2021 Goals: Contribute more to Kaggle Projects
+- 🌱 I’m currently focusing on NLP
+- 🌱 Last year i was focusing on learning Deep Reinforcement Learning
+- 🥅 2022 Goals: Build my own start-up
 ![](https://komarev.com/ghpvc/?taylankabbani&color=green)
 ### Connect me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />](https://www.linkedin.com/in/taylan-kabbani-98a913120/)
