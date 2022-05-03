@@ -10,7 +10,7 @@
 - :office_worker: My last occupied position was AI Engineer @ Amani AI
 - 🌱 I’m currently focusing on NLP
 - 🌱 Last year i was focusing on learning Deep Reinforcement Learning
-- 🥅 2022 Goals: Build my own start-up
+- 🥅 2022 Goals: get the DRL agent live!
 ![](https://komarev.com/ghpvc/?taylankabbani&color=green)
 ### Connect me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />](https://www.linkedin.com/in/taylan-kabbani-98a913120/)
