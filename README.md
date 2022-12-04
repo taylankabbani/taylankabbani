@@ -1,16 +1,28 @@
-### Hi there 👋, I'm Taylan Kabbani ![Profile views](https://gpvc.arturio.dev/taylankabbani)
+<h1 align="center"><b>Hello World! I'm Taylan...</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 
-## I'm a Data Scientist/Engineer @ Huawei !
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+a+Data+Scientist+and+Engineer..&hearts;++;Over+3+years+of+experience,;Active+Learner/Researcher,;Love+to+learn+new+stuff..<3"></a>
+</p>
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+<br>
 
-<a href="https://github.com/taylankabbani">
-<img align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=taylankabbani&hide=prs,issues,contribs&show_icons=true&hide_border=true&include_all_commits=true&theme=highcontrast&custom_title=My Github Stats"/>
-</a>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me** ![Profile views](https://gpvc.arturio.dev/taylankabbani)
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<br>
 
-- :student: I've recently finished my master's in Data Science @Özyeğin Üniversitesi with a full teaching/research assistant scholarship
-- :office_worker: My last occupied position was AI Engineer @ Amani AI
-- 🌱 I’m currently focusing on NLP
-- 🌱 Last year i was focusing on learning Deep Reinforcement Learning
-- 🥅 2022 Goals: Building something cool!
+- :student: I hold a my master degree in Data Science from Özyeğin university
+
+- 🎯: My Interests are:
+   - 📉 The applications of ML, DL and RL in Finance 
+   - 🖥️ Big data technologies and architectures
+   - 👅 Natural Language Processing (NLP)
+- :office_worker: Currently working @ Huawei
+- 🌱 I’m currently focusing on NLP and cloud architecture
+- 🥅 2023 Goals: Building something cool!
 ![](https://komarev.com/ghpvc/?taylankabbani&color=green)
 ### Connect me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />](https://www.linkedin.com/in/taylan-kabbani-98a913120/)
@@ -47,5 +59,7 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@taylankabbani96/0"><img align="left" src="https://github-readme-medium-recent-article.vercel.app/medium/@taylankabbani96/0" alt="Recent Article 0"> 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@taylankabbani96/1"><img align="left" src="https://github-readme-medium-recent-article.vercel.app/medium/@taylankabbani96/1" alt="Recent Article 1"> 
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@taylankabbani96/2"><img align="left" src="https://github-readme-medium-recent-article.vercel.app/medium/@taylankabbani96/2" alt="Recent Article 2"> 
-
-
+<!-- 
+<a href="https://github.com/taylankabbani">
+<img align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=taylankabbani&hide=prs,issues,contribs&show_icons=true&hide_border=true&include_all_commits=true&theme=highcontrast&custom_title=My Github Stats"/>
+</a> -->
