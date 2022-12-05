@@ -69,14 +69,21 @@ func GetBio() Bio {
 
 ##  🗞️ My recent publications
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<ul>
+  <li><a href="https://ieeexplore.ieee.org/document/9877940"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Deep Reinforcement Learning Approach for Trading Automation in the Stock Market</b></a><br/><i>IEEE</i></li>
+  <li><a href="https://arxiv.org/abs/2201.12283"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Predicting The Stock Trend Using News Sentiment Analysis and Technical Indicators in Spark </b></a><br/><i>ArXiv</i></li>
+    <li><a href="https://arxiv.org/abs/2211.17193"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Metaheuristic Approach to Solve Portfolio Selection Problem</b></a><br/><i>ArXiv</i></li>
+</ul>
 
+</p>
 
 
 ##  :newspaper: Here are my latest articles on [Medium](https://medium.com/@taylankabbani96)
+![Taylan's blog](https://github-read-medium.vercel.app/latest?username=taylankabbani96&limit=4&theme=nord)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@taylankabbani96/0"><img align="left" src="https://github-readme-medium-recent-article.vercel.app/medium/@taylankabbani96/0" alt="Recent Article 0"> 
+<!-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@taylankabbani96/0"><img align="left" src="https://github-readme-medium-recent-article.vercel.app/medium/@taylankabbani96/3" alt="Recent Article 3"> 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@taylankabbani96/1"><img align="left" src="https://github-readme-medium-recent-article.vercel.app/medium/@taylankabbani96/1" alt="Recent Article 1"> 
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@taylankabbani96/2"><img align="left" src="https://github-readme-medium-recent-article.vercel.app/medium/@taylankabbani96/2" alt="Recent Article 2"> 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@taylankabbani96/2"><img align="left" src="https://github-readme-medium-recent-article.vercel.app/medium/@taylankabbani96/2" alt="Recent Article 2">  -->
 <!-- 
 <a href="https://github.com/taylankabbani">
 <img align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=taylankabbani&hide=prs,issues,contribs&show_icons=true&hide_border=true&include_all_commits=true&theme=highcontrast&custom_title=My Github Stats"/>
