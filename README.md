@@ -30,7 +30,7 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-    "- ⚡ Quick bio:":   "A kind of amateurBoxer-synthWave-cyberPunk-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
+    "- ⚡ Quick bio:":   "TBD",
     "- 🔭 I’m currently working at":    "Huawei",
     "- 🎯 I'm Interested in":  
         "- 📉 The applications of ML, DL and RL in Finance"
@@ -42,15 +42,6 @@ func GetBio() Bio {
 	}
 }
 ```
-
-- :student: I hold a my master degree in Data Science from Özyeğin university
-
-
-
-- 🥅 2023 Goals: Building something cool!
-![](https://komarev.com/ghpvc/?taylankabbani&color=green)
-<br><br>
-::):
 ### Connect me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />](https://www.linkedin.com/in/taylan-kabbani-98a913120/)
 [<img align="left" alt="medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@taylankabbani96)
@@ -78,6 +69,8 @@ func GetBio() Bio {
 
 ##  🗞️ My recent publications
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+
 
 ##  :newspaper: Here are my latest articles on [Medium](https://medium.com/@taylankabbani96)
 
