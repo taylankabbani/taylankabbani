@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hello World! I'm Taylan...</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+a+Data+Scientist+and+Engineer..&hearts;++;Over+3+years+of+experience,;Active+Learner/Researcher,;Love+to+learn+new+stuff..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Big+Data+Engineer+and+Architect..&hearts;++;Over+3+years+of+experience,;Active+Learner/Researcher,;Love+to+learn+new+stuff..<3"></a>
 </p>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
@@ -33,10 +33,10 @@ func GetBio() Bio {
     "- ⚡ Quick bio:":   "TBD",
     "- 🔭 I’m currently working at":    "Huawei",
     "- 🎯 I'm Interested in":  
-        "- 📉 The applications of ML, DL and RL in Finance"
+        "- 📉 Algorithmic trading with Machine Learning"
         "- 🖥️ Big data technologies and architectures"
         "- 👅 Natural Language Processing (NLP)"
-    "- 🌱 I’m currently learning":    "Golang, NLP and cloud architecture",
+    "- 🌱 I’m currently learning":    "Big data architecture and technologies (Spark, Flink, HBase, Kafka, Redis, Flume, Hive,....",
     "- 🤔 I’m looking for help with":   "Anything related to what I am currently learning 😅",
     "- 🥅 2023 Goals":    "Building something cool 🤐!" 
 	}
